@@ -1,0 +1,77 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #d2f5cf;
+    text-align: center;
+    }
+
+
+
+.mapa {
+    border-color: black;
+}
+div{
+    background-color: #0e9402;
+    width: 100%;
+    max-width: 760px;
+    margin: 0 auto;
+    padding: 0 20px;
+    background-color: #76767627;
+}
+
+.textos {
+
+    color: rgb(61, 71, 71);
+}
+
+header {
+    background-color: #2bb51e84;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+}
+
+h1 h4 {
+    margin: 0;
+    color: black;
+}
+img{
+    width: 300px;
+    height: 200px;
+}
+
+#cursos-destaque {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 20px 0;
+}
+
+.curso {
+    width: 200px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.curso img {
+    max-width: 100%;
+}
+
+#lista-cursos {
+    margin: 20px 0;
+    list-style-type: none;
+    padding: 0;
+}
+
+#lista-cursos li {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+#link{
+    color: rgb(119, 146, 111);
+} 
+a{
+    color: rgb(96, 112, 100);
+}
